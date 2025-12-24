@@ -49,6 +49,9 @@ I build scalable web applications and contribute to open source projects. Passio
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FaizAbu&theme=onedark&no-frame=true&row=2&column=4" />
 </p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/FaizAbu/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
