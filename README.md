@@ -51,7 +51,7 @@ I build scalable web applications and contribute to open source projects. Passio
 </p>
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/FaizAbu/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/FaizAbu/FaizAbu/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
