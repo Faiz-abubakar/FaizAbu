@@ -28,20 +28,20 @@ I build scalable web applications and contribute to open source projects. Passio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizAbu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizAbu&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizAbu&theme=radical" />
 </p>
 
 ## 🌟 Featured Projects
 
-### 🔥 [Project Name](https://github.com/Faiz-abubakar/ar-risalah-backend)
+### 🔥 [Ar Risalah Academy Website](https://github.com/Faiz-abubakar/ar-risalah-backend)
 📝 A full stack website for Ar Risalah Academy
 
-### 🚀 [Another Project](https://github.com/Faiz-abubakar/Knightbot-MD)
+### 🚀 [AI Chatbot](https://github.com/Faiz-abubakar/Knightbot-MD)
 📝 An autonomus AI Chatbot
 
 ## 📈 GitHub Trophies
