@@ -47,7 +47,7 @@ I build scalable web applications and contribute to open source projects. Passio
 ## 📈 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FaizAbu&theme=onedark&no-frame=true&row=2&column=4" />
 </p>
 
 ## 📫 Connect With Me
